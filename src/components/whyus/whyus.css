@@ -1,0 +1,45 @@
+.whyus{
+    position: relative;
+    top: 7rem;
+    width: 85%;
+    margin: 0 auto;
+    padding: 2rem 0rem;
+}
+.whyus h1{
+    font-size: 36px;
+    margin-bottom: 0px;
+    color:#282828;
+}
+.whyus .description{
+    font-size: 16px;
+    color:#575757;
+    margin-bottom: 3rem;
+}
+.whyus h4{
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+
+
+.whyusInnerContainer{
+    display: flex;
+}
+.whyusInnerContainer .text-center{
+    width: 25%;
+    margin: 0 auto;
+}
+
+
+.iconsBlock{
+    padding: 1rem;
+    border: thin solid;
+    rotate: 45deg;
+    border-radius: 20px;
+    width: 50px;
+    height: 50px;
+    margin: 0 auto;
+}
+.iconsBlock img{
+    rotate: 315deg;
+    width: 40px;
+}

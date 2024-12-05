@@ -1,0 +1,46 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    padding: 5px 0;
+}
+
+.navbar .navbar-items{
+ font-size: 14px;
+ align-content: center;
+}
+
+.navbar .navbar-items::after{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 5px;
+    content: '';
+    height: 0px;
+    width: 0px;
+    border: none;
+    border-top: 5px solid #007B83;
+    border-left: 5px solid #FFF;
+    border-right: 5px solid #fff;
+
+}
+.navbar .navbar-links{
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+}
+.navbar .navbar-button{
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+}
+.navbar .navbar-button img{
+    width: 30px;
+}
+.navbar .navbar-logo{
+    width: 50px;
+    height: 50px;
+    overflow: auto;
+}
+
+.navbar .login-btn{
+    
+}

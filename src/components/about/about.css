@@ -1,0 +1,21 @@
+.about{
+    position: relative;
+    top: 7rem;
+    width: 85%;
+    margin: 0 auto;
+    padding: 2rem 0rem;
+    display: flex;
+}
+
+.about .scooter-bg{
+    background: url("../../assets/img/section-img.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+    height: 415px;
+    box-shadow: 1px 1px 1px 1px #eee;
+}
+.about .scooter-description{
+
+}

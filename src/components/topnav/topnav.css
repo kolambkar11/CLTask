@@ -1,0 +1,42 @@
+.main-content{
+    background-color:#007B83;
+}
+.topnav{
+    width: 90%;
+    padding: 10px;
+    color: #fff;
+    display: flex;
+    gap: 1rem;
+    margin: 0 auto;
+}
+
+.topnav .topnav-items{
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    align-content: center;
+}
+.topnav .topnav-items .item-details{
+    display: flex;
+    gap: 10px;
+}
+.topnav .live-chat{
+    background: #fff;
+    padding: 5px;
+    border-radius: 15px;
+    color: #000;
+    text-decoration: none;
+    display: flex;
+}
+.topnav .live-chat span{
+    font-size: 13px;
+}
+
+.seperator{
+    color:#6C6C6C;
+}
+
+.topnav .live-chat svg{
+    color: #26BA40;
+    align-self: center;
+}

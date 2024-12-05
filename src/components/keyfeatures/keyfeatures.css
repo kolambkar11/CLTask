@@ -1,0 +1,44 @@
+.keyfeatures{
+    position: relative;
+    top: 7rem;
+    padding: 2.5rem;
+    background-color: #027B831A;
+}
+
+.keyfeatures .headings{
+    font-size: 36px;
+}
+
+.Keyfeatureblocks{
+    display: flex;
+    justify-content: space-around;
+    gap: 1rem;
+    width: 90%;
+    margin: 0 auto;
+}
+.Keyfeatureblock{
+    background-color: #F5F5DC;
+    padding: 1rem;
+    width: 100%;
+}
+.Keyfeatureblockinner{
+    display: flex;
+    gap: 10px;
+}
+.Keyfeatureblockinner span{
+    align-content: center;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.icons{
+    border: thin solid #005F83;
+    padding: 10px;
+    border-radius: 100%;
+}
+
+.Keyfeatureblock p{
+    color: #000;
+    font-size: 16px;
+    margin-bottom: 0;
+}

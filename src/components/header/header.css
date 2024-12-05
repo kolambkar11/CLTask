@@ -1,0 +1,53 @@
+.header{
+    background-color: #F5F5DC;
+    height: 238px;
+    padding: 1rem 8rem;
+}
+
+.header h1{
+    margin: 5px 0px;
+    font-size: 48px;
+
+}
+
+.header .subheading{
+    font-size: 28px;
+    margin: 5px 0px;
+}
+
+.header .nextsubheading{
+    font-size: 12px;
+    margin: 10px 0px;
+}
+
+.header .image-floater{
+    position: absolute;
+    right: 1%;
+    width: 30%;
+    top: 10%;
+}
+
+.header .left-block{
+    position: absolute;
+    background: #fff;
+    width: 55%;
+    padding: 1rem;
+    box-shadow: 0px 2px 8px 0px #00000040;
+    border-radius: 30px;
+    margin-top: 1rem;
+}
+
+.header .form{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.header .form input, .header .form button{
+    border: thin solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+.header .form button{
+    width: 100px;
+}
