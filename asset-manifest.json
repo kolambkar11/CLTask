@@ -1,28 +1,31 @@
 {
   "files": {
-    "main.css": "/cltask/static/css/main.4454cc53.css",
-    "main.js": "/cltask/static/js/main.dc9aabca.js",
+    "main.css": "/cltask/static/css/main.64521a2b.css",
+    "main.js": "/cltask/static/js/main.03d09db7.js",
     "static/js/453.7c9f1084.chunk.js": "/cltask/static/js/453.7c9f1084.chunk.js",
     "static/media/section-img.png": "/cltask/static/media/section-img.4e58aff433716fa203cd.png",
     "static/media/scooter-insurance.png": "/cltask/static/media/scooter-insurance.66fa8a2e9575f2fc40e1.png",
+    "static/media/pepicons-print_handshake.svg": "/cltask/static/media/pepicons-print_handshake.e13b91b8e889ca00473824107c1cc003.svg",
     "static/media/verify.svg": "/cltask/static/media/verify.f285432cff0bab33ee8186de50304e4a.svg",
     "static/media/clarity_gavel-line.svg": "/cltask/static/media/clarity_gavel-line.a6767caa1c8e3609c68596e42a2a358c.svg",
     "static/media/umbrella.svg": "/cltask/static/media/umbrella.46344e74d69a62159bfb2109fc75f768.svg",
+    "static/media/ri_motorbike-fill.svg": "/cltask/static/media/ri_motorbike-fill.aa16c32cdc938fa69df3f561e0942ad2.svg",
     "static/media/Group.svg": "/cltask/static/media/Group.df8f0593de673136b1050b2a8cf176cd.svg",
     "static/media/wrench.svg": "/cltask/static/media/wrench.c5ed33cae47c7b12914e970fe4d2e45d.svg",
     "static/media/service-line.svg": "/cltask/static/media/service-line.956eb72c3d23abb8a8c1f66352775a95.svg",
     "static/media/thunder.svg": "/cltask/static/media/thunder.b1efda42247c02c157c5821afb18b479.svg",
+    "static/media/solar_shield-broken.svg": "/cltask/static/media/solar_shield-broken.277688da00e5e7d732e642d2fbb864b6.svg",
     "index.html": "/cltask/index.html",
     "static/media/mdi_security-lock-outline.svg": "/cltask/static/media/mdi_security-lock-outline.b5e403e512f83893c1e414dd9b06c657.svg",
     "static/media/Vector.svg": "/cltask/static/media/Vector.e53dc28bdece1f0033e343cb31529d5c.svg",
     "static/media/bx_slider.svg": "/cltask/static/media/bx_slider.816bbbc72b34684473ea709e3474273d.svg",
     "static/media/quill_hamburger.svg": "/cltask/static/media/quill_hamburger.55aab6439d292ba98b607b1b299bad7d.svg",
-    "main.4454cc53.css.map": "/cltask/static/css/main.4454cc53.css.map",
-    "main.dc9aabca.js.map": "/cltask/static/js/main.dc9aabca.js.map",
+    "main.64521a2b.css.map": "/cltask/static/css/main.64521a2b.css.map",
+    "main.03d09db7.js.map": "/cltask/static/js/main.03d09db7.js.map",
     "453.7c9f1084.chunk.js.map": "/cltask/static/js/453.7c9f1084.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4454cc53.css",
-    "static/js/main.dc9aabca.js"
+    "static/css/main.64521a2b.css",
+    "static/js/main.03d09db7.js"
   ]
 }
