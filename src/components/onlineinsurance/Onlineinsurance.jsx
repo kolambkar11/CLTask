@@ -41,11 +41,13 @@ const Onlineinsurance = () => {
         <div className="description">
           <img src={leftImg} alt="" />
           <div className="right-block">
-            {data.map((d) => {
+            {data.map((d, index) => {
               return (
-                <>
-                  <Rightblock heading={d.heading} description={d.description} />
-                </>
+                <Rightblock
+                  key={index}
+                  heading={d.heading}
+                  description={d.description}
+                />
               );
             })}
           </div>

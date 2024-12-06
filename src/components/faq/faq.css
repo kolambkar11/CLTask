@@ -1,0 +1,61 @@
+.faqs{
+    position: relative;
+    top: 7rem;
+    padding: 5rem 0;
+    background-color: #F5F5DC;
+}
+.faqs .mainContent{
+    width: 85%;
+    margin: 0 auto;
+}
+.faqs .mainContent .heading{
+    font-size: 36px;
+    color: #282828;
+    margin: 0px;
+}
+
+.faqs .mainContent .title{
+    font-size: 20px;
+    color: #282828;
+    margin: 0px;
+}
+.faqs .mainContent .search{
+    padding: 5px 10px;
+    margin: 1rem 0rem;
+    width: 453px;
+    height: 40px;
+    font-size: 20px;
+    border: 2px solid #FFFFFF;
+    border-radius: 10px;
+}
+
+.faqs .mainContent .faqslisting{
+display: flex;
+flex-wrap: wrap;
+gap: 1rem;
+}
+.faqs .mainContent .faqslisting .block{
+width: 49%;
+font-size: 16px;
+}
+
+.faqs .mainContent .faqslisting .block ul{
+    padding: 0px 15px;
+    margin-top: 5px;
+}
+
+.faqs .mainContent .faqslisting .block h3{
+    font-size: 16px;
+    margin: 0;
+}
+
+
+.faqs .mainContent .faqslisting .block p{
+    font-size: 16px;
+    margin: 5px 0px 0px;
+}
+
+.horizontalLine{
+    border-bottom: 2px solid #007B83;
+    margin: 15px 0;
+}

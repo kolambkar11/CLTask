@@ -73,9 +73,10 @@ const Insurancepolicy = () => {
           Things to keep in mind while buying a two wheeler insurance policy{" "}
         </h1>
         <div className="iplisting">
-          {data.map((d) => {
+          {data.map((d, index) => {
             return (
               <Iplisting
+                key={index}
                 icon={d.icon}
                 title={d.title}
                 description={d.description}

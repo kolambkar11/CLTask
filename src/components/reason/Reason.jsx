@@ -41,9 +41,10 @@ const Reason = () => {
         <div className="right-block">
           <h1 className="heading">Reason to buy bike insurance Online</h1>
           <div className="right-block-desc">
-            {data.map((d) => {
+            {data.map((d, index) => {
               return (
                 <Description
+                  key={index}
                   id={d.id}
                   title={d.title}
                   description={d.description}

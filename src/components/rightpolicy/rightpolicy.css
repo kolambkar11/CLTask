@@ -49,6 +49,15 @@
     margin-bottom: 1rem;
 }
 
-.inner-block .in-block .heading .title{
+.inner-block .in-block .heading .text-blue{
     color:#005F83
+}
+
+.inner-block .in-block .heading .text-green{
+    color:#007B83
+}
+
+.inner-block .in-block .description{
+    font-size: 18px;
+    color:#000000;
 }
