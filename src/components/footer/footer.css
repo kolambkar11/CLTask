@@ -1,6 +1,36 @@
+.footer-main{
+    background: #027B83;
+    margin-top: 10rem;
+}
 .footer{
-    position: relative;
-    top: 7rem;
-    padding: 5rem 0 8rem;
+    
+    padding: 2rem 0;
     background-color: #027B83;
+    display: flex;
+    flex-wrap: wrap;
+    color: #fff;
+    width: 85%;
+    margin: 0 auto;
+}
+
+.footer .left{
+    width: 40%;
+}
+
+.footer .right{
+    width: 60%;
+}
+
+.footer .quicklinks{
+    margin-top: 3rem;
+
+}
+.footer .footer-paragraph{
+    font-size: 15px;
+}
+
+.social-media i{
+    margin: 1rem 3rem 0 0;
+    font-size: 1rem;
+    cursor: pointer;
 }
