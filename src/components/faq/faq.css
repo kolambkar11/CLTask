@@ -59,3 +59,15 @@ font-size: 16px;
     border-bottom: 2px solid #007B83;
     margin: 15px 0;
 }
+
+.search{
+    background: url("../../assets/img/search.svg") no-repeat scroll 25rem 0px;
+    background-image: url("../../assets/img/search.svg"); 
+    background-position: 25rem 0;
+    background-repeat: no-repeat;
+    padding-left:30px;
+    background-color: #fff;
+}
+
+/* background-image: url("paper.gif"); */
+/* background-color: #cccccc; */

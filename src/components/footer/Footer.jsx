@@ -15,11 +15,11 @@ const Footer = () => {
             </p>
             <p>Email: customersupport@icicilombard.com Fax no - 022 61961323</p>
             <div className="social-media">
-              <i class="fa fa-facebook-f"></i>
-              <i class="fa fa-linkedin"></i>
-              <i class="fa fa-facebook-f"></i>
-              <i class="fa fa-youtube"></i>
-              <i class="fa fa-instagram"></i>
+              <i className="fa fa-facebook-f"></i>
+              <i className="fa fa-linkedin"></i>
+              <i className="fa fa-facebook-f"></i>
+              <i className="fa fa-youtube"></i>
+              <i className="fa fa-instagram"></i>
             </div>
           </div>
           <div className="right">
