@@ -1,0 +1,54 @@
+.reason{
+    position: relative;
+    top: 7rem;
+    display: flex;
+}
+
+.reason .right-block{
+    background-color: #005F83;
+    color: #fff;
+    width: 100%;
+    padding-left: 1rem;
+}
+
+.reason .right-block .heading{
+    margin: 3rem 0rem 1rem;
+    font-size: 36px;
+}
+
+.reason .right-block .right-block-desc{
+    display: flex;
+    flex-wrap: wrap;
+}
+.reason .right-block .right-block-desc .description{
+    width: 48%;
+    margin: 10px 0px;
+}
+.reason .right-block .right-block-desc .description h1{
+    color:#FFFFFF;
+    opacity: .3;
+    margin: 0px 0px 5px;
+    font-size: 40px;
+}
+.reason .right-block .right-block-desc .description h3{
+    font-size: 18px;
+    margin: 0px 0px 5px;
+}
+.reason .right-block .right-block-desc .description p{
+    margin: 0px 0px 5px;
+    font-size: 14px;
+}
+
+.btn-apply{
+    border: thin solid #F5F5DC;
+    background: transparent;
+    padding: 1rem;
+    display: flex;
+    width: 20%;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 16px;
+    color: #fff;
+    border-radius: 8px;
+    margin-top: 5rem;
+}

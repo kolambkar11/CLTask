@@ -1,0 +1,40 @@
+.online-insurance{
+    position: relative;
+    top: 7rem;
+    padding: 2.5rem 2.5rem 0 0;
+    background-color: #007B83;
+    color: #fff;
+
+}
+.online-insurance .heading{
+font-size: 36px;
+text-align: center;
+width: 50%;
+font-weight: 700;
+margin: 0 auto;
+}
+
+.online-insurance .inner-block{
+    width: 85%;
+    margin: 0 auto;
+
+}
+
+.online-insurance img{
+    width: 600px;
+}
+
+.online-insurance .description{
+    display: flex;
+}
+.online-insurance .right-block{
+    /* border-left: thin solid; */
+    margin: 1rem;
+    padding: 1rem 2rem;
+}
+
+.online-insurance .right-block .desc::after{
+    list-style-image:URL( 
+        'https://media.geeksforgeeks.org/wp-content/uploads/20200331172037/image47.png'); 
+            list-style-position: inside; 
+}

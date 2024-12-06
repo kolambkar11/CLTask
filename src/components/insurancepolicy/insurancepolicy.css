@@ -1,0 +1,41 @@
+.insurance-policy{
+    position: relative;
+    top: 7rem;
+    padding: 2.5rem;
+    width: 85%;
+    margin: 0 auto;
+}
+
+.insurance-policy h1{
+    font-size: 36px;
+    width: 48%;
+}
+.iplistingDescription h1{
+    font-size: 16px;
+    margin-bottom: 0px;
+    color: #027B83;
+}
+ .iplisting {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+.iplisting-block{
+    flex-basis: 49%;
+    flex-grow: 1;
+}
+.iplisting-block .inner-block{
+    display: flex;
+}
+.iplisting-block .inner-block .iplistingDescription{
+    margin-left: 1.5rem;
+}
+.iplisting-block .inner-block img{
+    width: 40px;
+}
+.iplisting-block .inner-block .iplistingDescription p{
+    color: #282828;
+    margin: 5px 0px 0;
+    text-align: justify;
+    font-size: 14px;
+}
