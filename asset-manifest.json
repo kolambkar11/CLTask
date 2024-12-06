@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/cltask/static/css/main.80ec2cef.css",
-    "main.js": "/cltask/static/js/main.ba6fb3ba.js",
+    "main.css": "/cltask/static/css/main.8c543da0.css",
+    "main.js": "/cltask/static/js/main.7c6eaac4.js",
     "static/js/453.7c9f1084.chunk.js": "/cltask/static/js/453.7c9f1084.chunk.js",
     "static/media/section-img.png": "/cltask/static/media/section-img.4e58aff433716fa203cd.png",
     "static/media/reason-left-block.png": "/cltask/static/media/reason-left-block.fd142ff3fbe781386aee.png",
     "static/media/online-insurance.png": "/cltask/static/media/online-insurance.0d3728462abff7bbd1e9.png",
     "static/media/scooter-insurance.png": "/cltask/static/media/scooter-insurance.66fa8a2e9575f2fc40e1.png",
     "static/media/pepicons-print_handshake.svg": "/cltask/static/media/pepicons-print_handshake.e13b91b8e889ca00473824107c1cc003.svg",
+    "static/media/testimonials.png": "/cltask/static/media/testimonials.6c26d16911252de69998.png",
     "static/media/verify.svg": "/cltask/static/media/verify.f285432cff0bab33ee8186de50304e4a.svg",
     "static/media/bag-rupee-solid.svg": "/cltask/static/media/bag-rupee-solid.1c00f5a05530a885577a18f45fd21d58.svg",
     "static/media/clarity_gavel-line.svg": "/cltask/static/media/clarity_gavel-line.a6767caa1c8e3609c68596e42a2a358c.svg",
@@ -21,6 +22,7 @@
     "static/media/apply-btn-icon.svg": "/cltask/static/media/apply-btn-icon.2e5c1f80d88b76ecea99781fc0857359.svg",
     "static/media/service-line.svg": "/cltask/static/media/service-line.956eb72c3d23abb8a8c1f66352775a95.svg",
     "static/media/thunder.svg": "/cltask/static/media/thunder.b1efda42247c02c157c5821afb18b479.svg",
+    "static/media/btn-arrow.svg": "/cltask/static/media/btn-arrow.1f8e2c5ddce27c4020e086ed8d686df5.svg",
     "static/media/shield.svg": "/cltask/static/media/shield.28d2e8d149cdf227ae753fd17dbacecc.svg",
     "index.html": "/cltask/index.html",
     "static/media/exclusion.svg": "/cltask/static/media/exclusion.e34878be5d239aa20d997e1ba3eca6d0.svg",
@@ -31,12 +33,14 @@
     "static/media/bx_slider.svg": "/cltask/static/media/bx_slider.816bbbc72b34684473ea709e3474273d.svg",
     "static/media/add-ons.svg": "/cltask/static/media/add-ons.2adf1ab33a06db0f10f99b5b247887ff.svg",
     "static/media/quill_hamburger.svg": "/cltask/static/media/quill_hamburger.55aab6439d292ba98b607b1b299bad7d.svg",
-    "main.80ec2cef.css.map": "/cltask/static/css/main.80ec2cef.css.map",
-    "main.ba6fb3ba.js.map": "/cltask/static/js/main.ba6fb3ba.js.map",
+    "static/media/right-arrow.svg": "/cltask/static/media/right-arrow.05620e2a8728cb0183a28dca2bdea2fe.svg",
+    "static/media/left-arrow.svg": "/cltask/static/media/left-arrow.3c99a6a59c027d935763c48b01f64720.svg",
+    "main.8c543da0.css.map": "/cltask/static/css/main.8c543da0.css.map",
+    "main.7c6eaac4.js.map": "/cltask/static/js/main.7c6eaac4.js.map",
     "453.7c9f1084.chunk.js.map": "/cltask/static/js/453.7c9f1084.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80ec2cef.css",
-    "static/js/main.ba6fb3ba.js"
+    "static/css/main.8c543da0.css",
+    "static/js/main.7c6eaac4.js"
   ]
 }
