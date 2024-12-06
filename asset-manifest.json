@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cltask/static/css/main.3d7d8565.css",
-    "main.js": "/cltask/static/js/main.910b6914.js",
+    "main.css": "/cltask/static/css/main.2ac029d2.css",
+    "main.js": "/cltask/static/js/main.5c4dc32d.js",
     "static/js/453.7c9f1084.chunk.js": "/cltask/static/js/453.7c9f1084.chunk.js",
     "static/media/section-img.png": "/cltask/static/media/section-img.4e58aff433716fa203cd.png",
     "static/media/reason-left-block.png": "/cltask/static/media/reason-left-block.fd142ff3fbe781386aee.png",
@@ -35,14 +35,14 @@
     "static/media/bx_slider.svg": "/cltask/static/media/bx_slider.816bbbc72b34684473ea709e3474273d.svg",
     "static/media/add-ons.svg": "/cltask/static/media/add-ons.2adf1ab33a06db0f10f99b5b247887ff.svg",
     "static/media/quill_hamburger.svg": "/cltask/static/media/quill_hamburger.55aab6439d292ba98b607b1b299bad7d.svg",
-    "static/media/right-arrow.svg": "/cltask/static/media/right-arrow.05620e2a8728cb0183a28dca2bdea2fe.svg",
     "static/media/left-arrow.svg": "/cltask/static/media/left-arrow.3c99a6a59c027d935763c48b01f64720.svg",
-    "main.3d7d8565.css.map": "/cltask/static/css/main.3d7d8565.css.map",
-    "main.910b6914.js.map": "/cltask/static/js/main.910b6914.js.map",
+    "static/media/right-arrow.svg": "/cltask/static/media/right-arrow.93624a048902638f43eed838eddbe49f.svg",
+    "main.2ac029d2.css.map": "/cltask/static/css/main.2ac029d2.css.map",
+    "main.5c4dc32d.js.map": "/cltask/static/js/main.5c4dc32d.js.map",
     "453.7c9f1084.chunk.js.map": "/cltask/static/js/453.7c9f1084.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d7d8565.css",
-    "static/js/main.910b6914.js"
+    "static/css/main.2ac029d2.css",
+    "static/js/main.5c4dc32d.js"
   ]
 }
