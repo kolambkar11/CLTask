@@ -28,7 +28,7 @@ margin: 0 auto;
     display: flex;
 }
 .online-insurance .right-block{
-    /* border-left: thin solid; */
+    border-left: thin solid;
     margin: 1rem;
     padding: 1rem 2rem;
 }
@@ -37,4 +37,14 @@ margin: 0 auto;
     list-style-image:URL( 
         'https://media.geeksforgeeks.org/wp-content/uploads/20200331172037/image47.png'); 
             list-style-position: inside; 
+}
+
+.online-insurance .right-block .desc h1::before{
+    content: url("../../assets/img/right-arrow.svg");
+    position: relative;
+    left: -32px;
+}
+
+.right-block .desc p {
+    margin-left: 5rem;
 }
